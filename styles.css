@@ -1,0 +1,40 @@
+body {
+  background-color: blueviolet;
+  text-align: center;
+  font: Arial, sans-serif;
+}
+
+.profile_card {
+  border: 2px solid red;
+  max-width: 400px;
+  margin: auto;
+  padding: 1rem;
+  width: fit-content;
+  background-color: tan;;
+}
+
+h1, h3 {
+  font-size: 1.5rem;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h3 {
+  color: slategray;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+img {
+  max-width: 300px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0.5rem;
+}
